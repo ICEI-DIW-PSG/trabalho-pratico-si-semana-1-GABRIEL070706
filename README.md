@@ -4,16 +4,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: GABRIEL HENRIQUE MORAIS TROTTA 
+Matricula: 883064
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="1366" height="768" alt="Captura de tela 2 sem1diw" src="https://github.com/user-attachments/assets/213a0c5f-239b-4bbf-9b25-2efe0c2c6139" />
+
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+<img width="1366" height="768" alt="Captura de tela sem1diw" src="https://github.com/user-attachments/assets/e4ff1a0d-0293-43c9-8f11-ab12b7fe1329" />
+
 
 
 ## Orientações sobre Linguagem MarkDown
